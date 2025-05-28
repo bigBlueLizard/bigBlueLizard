@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Somil Pandita
 
-I'm a second-year B.Tech student at **IIT Jammu**, majoring in Electrical Engineering with a **Minor in Computer Science**. I’m passionate about **AI/ML**, **systems programming**, and solving real-world problems with code. My work spans from building **LLM-powered agentic systems** to **deep learning models for PDEs**, and scalable web applications.
+I'm a B.Tech student at **IIT Jammu**, majoring in Electrical Engineering with a **Minor in Computer Science**. I’m passionate about **AI/ML**, **systems programming**, and solving real-world problems with code. My work spans from building **LLM-powered agentic systems** to **deep learning models for PDEs**, and scalable web applications.
 
 ## 🧠 What I’m Working On
 - 🔍 **Agentic RAG Chatbot** for e-commerce (Inter IIT Tech Meet)
